@@ -1,25 +1,18 @@
-# Hi, I'm Rui Eric Melo! 👋
+## 👋 Olá, eu sou o Eric Melo!
 
-### 📊 Data Analyst | Operations & Logistics Specialist
-I am a **Systems Analysis and Development (ADS)** student at Uninter, currently transitioning my career into **Data Analysis**. I leverage over 4 years of experience in high-performance logistics operations (Stone Co.) to transform raw data into strategic business insights.
+🚀 **Transição de Carreira | Estudante de ADS na UNINTER**
 
-Sou estudante de **ADS** pela Uninter, em transição de carreira para **Análise de Dados**. Utilizo minha experiência de mais de 4 anos em operações logísticas de alta performance (Stone Co.) para transformar dados brutos em insights estratégicos de negócio.
+Com mais de 4 anos de experiência na **Stone Co.** atuando como *Assistente de Logística (GREEN ANGEL)* e *Especialista em Logística (HOST ANGEL)*, desenvolvi uma base sólida em resolução de problemas, foco no cliente e operações logísticas. 
 
----
+Atualmente, estou migrando para o mundo da tecnologia, unindo minha vivência prática com novos conhecimentos técnicos:
 
-### 🚀 Technical Skills / Habilidades Técnicas
-* **Data Analysis:** SQL Server (T-SQL), Stored Procedures, Views & Data Modeling.
-* **Programming:** Python (Learning 🐍) & Automation.
-* **Cloud & Infrastructure:** Aspirant to **AWS (Cloud Data Solutions)**.
-* **Tools:** Advanced Excel & Power BI (In progress).
-* **Training:** SQL Impressionador by **Hashtag Treinamentos**.
+* 🎓 **Graduando:** Análise e Desenvolvimento de Sistemas (ADS) - UNINTER.
+* 🛠️ **Tech Stack:** Python, SQL Server, AWS e Git.
+* 📊 **Foco:** Análise de Dados, Modelagem de Sistemas (UML) e Gestão de Projetos.
+* 🌍 **Idiomas:** Estudando Inglês (Open English) para expandir horizontes globais.
 
----
-
-### 🌍 Professional Goals / Objetivos Profissionais
-I am planning a family relocation to **Portugal / Europe / Paraguay**, seeking opportunities as a **Data Analyst** where I can apply my operational background and technical skills to drive efficiency and data-driven decisions.
-
-Em planejamento de reinstalação familiar para **Portugal / Europa / Paraguai**, buscando oportunidades como **Analista de Dados** para aplicar meu histórico operacional e habilidades técnicas em decisões baseadas em dados.
+### 🛠️ Projetos em Destaque
+* 📂 **[Berg Works](https://github.com/ruiericadm-maker/fds.uniter):** Modelagem completa de um sistema de automação com requisitos funcionais (NFC/Voz) e diagramas UML.
 
 ---
 
