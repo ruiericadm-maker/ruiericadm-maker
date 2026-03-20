@@ -24,7 +24,7 @@ Em planejamento de reinstalação familiar para **Portugal / Europa / Paraguai**
 ---
 
 ### 📫 Connect with me / Conecte-se comigo
-* **LinkedIn:** (https://www.linkedin.com/in/ruieric-melo)
+* **LinkedIn:** (https://www.linkedin.com/in/ruieric-maker)
 * **Email:** ruieric.adm@gmail.com
 
 ---
