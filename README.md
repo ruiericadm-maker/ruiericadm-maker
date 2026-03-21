@@ -1,24 +1,24 @@
-## 👋 Olá, eu sou o Eric Melo!
+# Olá, eu sou o Rui Eric! 👋
 
-🚀 **Transição de Carreira | Estudante de ADS na UNINTER**
+Atualmente cursando **Análise e Desenvolvimento de Sistemas (UNINTER)** e me especializando em **Dados e Business Intelligence**.
 
-Com mais de 4 anos de experiência na **Stone Co.** atuando como *Assistente de Logística (GREEN ANGEL)* e *Especialista em Logística (HOST ANGEL)*, desenvolvi uma base sólida em resolução de problemas, foco no cliente e operações logísticas. 
+### 💼 Sobre Mim
+Com mais de 4 anos de experiência na **Stone Co.**, desenvolvi uma visão analítica voltada para o cliente e processos logísticos. 
+Hoje, estou transicionando essa bagagem de negócio para a área técnica, focando em transformar dados em decisões estratégicas.
 
-Atualmente, estou migrando para o mundo da tecnologia, unindo minha vivência prática com novos conhecimentos técnicos:
+### 🛠️ No que estou focado:
+* **Linguagens:** Python (Automação e Análise) e SQL Server (T-SQL, Procedures e Modelagem).
+* **Visualização:** Power BI e Integração com Excel.
+* **Cloud:** Estudando fundamentos de AWS.
+* **Metodologias:** Engenharia de Requisitos e Modelagem UML.
 
-* 🎓 **Graduando:** Análise e Desenvolvimento de Sistemas (ADS) - UNINTER.
-* 🛠️ **Tech Stack:** Python, SQL Server, AWS e Git.
-* 📊 **Foco:** Análise de Dados, Modelagem de Sistemas (UML) e Gestão de Projetos.
-* 🌍 **Idiomas:** Estudando Inglês (Open English) para expandir horizontes globais.
-
-### 🛠️ Projetos em Destaque
-* 📂 **[Berg Works](https://github.com/ruiericadm-maker/fds.uniter):** Modelagem completa de um sistema de automação com requisitos funcionais (NFC/Voz) e diagramas UML.
+### 📈 Projetos em Destaque:
+* **[Python-SQL-Data-Analytics](link-do-seu-repo):** Automação de estoque e dashboards visuais.
+* **[Projeto-Integracao-SQL-PBI](link-do-seu-repo):** Pipeline de ETL completo com a base AdventureWorks.
 
 ---
+📫 **Como me encontrar:** [Link para o seu LinkedIn] | [Seu e-mail]
 
-### 📫 Connect with me / Conecte-se comigo
-* **LinkedIn:** (https://www.linkedin.com/in/ruieric-maker)
-* **Email:** ruieric.adm@gmail.com
 
 ---
 *"Turning operational experience into data intelligence."*
