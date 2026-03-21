@@ -17,7 +17,7 @@ Hoje, estou transicionando essa bagagem de negócio para a área técnica, focan
 * **[Projeto-Integracao-SQL-PBI](link-do-seu-repo):** Pipeline de ETL completo com a base AdventureWorks.
 
 ---
-📫 **Como me encontrar:** [Link para o seu LinkedIn] | [Seu e-mail]
+📫 **Como me encontrar:** LinkedIn linkedin.com/in/ruieric-maker | email ruieric.adm@gmail.com
 
 
 ---
