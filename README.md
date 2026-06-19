@@ -1,23 +1,23 @@
-# Olá, eu sou o Rui Eric! 👋
+# Hi, I'm Rui Eric! 👋
 
-Atualmente cursando Análise e Desenvolvimento de Sistemas (UNINTER) e atuando no desenvolvimento de soluções de Inteligência Artificial, Engenharia de Dados e Business Intelligence.
+Currently studying Analysis and Systems Development (UNINTER) and specializing in Artificial Intelligence solutions, Data Engineering, and Business Intelligence.
 
-💼 Sobre Mim
-Com mais de 4 anos de experiência como Host Angel na Stone Co., liderei projetos piloto, estruturei treinamentos de equipes operacionais e desenvolvi uma forte visão analítica voltada a processos logísticos e SLAs de alta performance. Hoje, utilizo essa sólida bagagem de negócio no chão de fábrica para construir arquiteturas técnicas que transformam dados complexos em inteligência operacional.
+💼 About Me
+With over 4 years of experience as a Host Angel at Stone Co., I led pilot projects, structured training sessions for operational teams, and developed a strong analytical mindset focused on logistics processes and high-performance SLAs. Today, I bridge this solid business background with software engineering to build technical architectures that transform complex operational data into strategic intelligence.
 
-🛠️ Tecnologias e Foco Técnico:
-* **Inteligência Artificial:** Engenharia de Prompts (System Instructions), Integração com Google GenAI SDK e Speech Recognition.
-* **Dados e Linguagens:** Python (Pandas, NumPy, Automação) e SQL Server (T-SQL, Procedures, Views e Modelagem).
-* **Visualização e ETL:** Power BI e Integrações Avançadas de Dados.
-* **Cloud & Infraestrutura:** AWS Cloud Foundations e segurança de credenciais (python-dotenv).
+🛠️ Tech Stack & Focus:
+* **Artificial Intelligence:** Prompt Engineering (System Instructions), Google GenAI SDK Integration, and Speech Recognition.
+* **Data & Languages:** Python (Pandas, NumPy, Automation) and SQL Server (T-SQL, Procedures, Views, and Modeling).
+* **Visualization & ETL:** Power BI and Advanced Data Integrations.
+* **Cloud & Infrastructure:** AWS Cloud Foundations and secure credential management (python-dotenv).
 
-📈 Projetos em Destaque:
-* **Interview Copilot v1.0:** Aplicação standalone em Python que realiza ingestão de áudio em tempo real e utiliza IA Generativa com isolamento de contexto (STAR method) para tracking de entrevistas técnicas.
-* **Python-SQL-Data-Analytics:** Automação de pipelines de estoque e dashboards visuais integrados.
-* **Projeto-Integracao-SQL-PBI:** Processo de ETL completo e modelagem de dados utilizando a base de dados AdventureWorks.
+📈 Featured Projects:
+* **Interview Copilot v1.0:** A standalone Python application that handles real-time audio ingestion and utilizes Generative AI with strict context isolation (STAR method) to track and support technical interviews.
+* **Python-SQL-Data-Analytics:** Automated inventory pipelines and integrated visual dashboards.
+* **Projeto-Integracao-SQL-PBI:** Full ETL process and data modeling using the AdventureWorks database.
 
-📫 Como me encontrar: 
+📫 How to reach me: 
 * **LinkedIn:** linkedin.com/in/ruieric-maker 
-* **E-mail:** ruieric.adm@gmail.com
+* **Email:** ruieric.adm@gmail.com
 
 "Turning operational experience and engineering design into data intelligence."
